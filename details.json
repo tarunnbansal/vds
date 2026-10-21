@@ -1,0 +1,50 @@
+{
+    "site": {
+        "ownerName": "Chetna Garg",
+        "heroTitle": "Visionary Design Solutions",
+        "heroSubtitle": "Curating spaces that blend monumental form with intimate human experience.",
+        "aboutText": "Visionary Design Solutions is an avant-garde architectural practice committed to pushing the boundaries of modern design.\n\nOur approach is deeply rooted in minimalism, sustainability, and the profound integration of natural light.",
+        "logoType": "text",
+        "logoValue": "Visionary.",
+        "heroType": "youtube",
+        "heroMediaValue": "IU8aH-yB2eA"
+    },
+    "carousel": [
+        {
+            "id": 1,
+            "title": "Sustainable Future",
+            "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=1600"
+        },
+        {
+            "id": 2,
+            "title": "Minimalist Interiors",
+            "imageUrl": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&q=80&w=1600"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "The Glass Pavilion",
+            "category": "Residential",
+            "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=800"
+        },
+        {
+            "id": 2,
+            "title": "Urban Apex Tower",
+            "category": "Commercial",
+            "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=800"
+        },
+        {
+            "id": 3,
+            "title": "Zen Retreat",
+            "category": "Hospitality",
+            "imageUrl": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&q=80&w=800"
+        },
+        {
+            "id": 4,
+            "title": "Lumina Gallery",
+            "category": "Cultural",
+            "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=800"
+        }
+    ]
+}
